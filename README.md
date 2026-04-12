@@ -2,8 +2,7 @@
  
 Backend-focused Full Stack Engineer with 6+ years building production systems                                                                    
 across SaaS, fintech, compliance, and crypto. I specialize in Django/Python —
-clean architecture, performance optimization, and enterprise auth. I also write                                                                  
-about it.
+clean architecture, performance optimization, and enterprise auth. I also write about it.
 
 
 ## 📝 Latest Blog Posts
