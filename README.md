@@ -1,7 +1,6 @@
 ## Hi there 👋,
 I'm Serhii, a passionate Full Stack Developer with 6 years of experience dedicated to creating scalable, efficient, and user-friendly web and mobile applications.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/serhii-soldatov-ab2a68238/) or drop me an email at soldatov.own@gmail.com.
 
 ## 📝 Latest Blog Posts
 [Django Without the Mess: Repositories for Data, Services for Rules](https://soldatov-ss.hashnode.dev/django-without-the-mess-repositories-for-data-services-for-rules)\
