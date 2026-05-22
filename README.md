@@ -6,6 +6,7 @@ clean architecture, performance optimization, and enterprise auth. I also write 
 
 
 ## 📝 Latest Blog Posts
+[How I Added Project-Aware Tab Completion to Django's manage.py](https://soldatov-ss.hashnode.dev/how-i-added-project-aware-tab-completion-to-django-s-manage-py)\
 [Django Without the Mess: Repositories for Data, Services for Rules](https://soldatov-ss.hashnode.dev/django-without-the-mess-repositories-for-data-services-for-rules)\
 [Part 2: Django REST Framework: When (and When Not) to Override Serializers and Viewsets](https://soldatov-ss.hashnode.dev/part-2-django-rest-framework-when-and-when-not-to-override-serializers-and-viewsets)\
 [Part 1: Django REST Framework: When (and When Not) to Override Serializers and Viewsets](https://soldatov-ss.hashnode.dev/part-1-django-rest-framework-when-and-when-not-to-override-serializers-and-viewsets)\
