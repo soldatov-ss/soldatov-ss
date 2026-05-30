@@ -19,3 +19,15 @@ clean architecture, performance optimization, and enterprise auth. I also write 
 [Okta Single Sign-On (SSO) Setup: A Step-by-Step Guide](https://dev.to/soldatov-ss/okta-single-sign-on-sso-setup-a-step-by-step-guide-3o4l)\
 [How to Configure AWS Cognito for SSO: A Step-by-Step Guide](https://dev.to/soldatov-ss/how-to-configure-aws-cognito-for-sso-a-step-by-step-guide-3j44)
 
+---
+
+## 🧙 Speak, friend, and connect
+
+> *"All we have to decide is what to do with the time that is given us."* — Gandalf
+
+One does not simply walk into production... but you can send word my way:
+
+- 🧝 **LinkedIn** — [ss-soldatov](https://www.linkedin.com/in/ss-soldatov/) *· the path through Lothlórien*
+- 🦅 **Email** — [soldatov.own@gmail.com](mailto:soldatov.own@gmail.com) *· a message borne by the Eagles*
+
+<sub><i>Three rings for the elven-kings, seven for the dwarves... and one inbox to reach them all.</i></sub>
