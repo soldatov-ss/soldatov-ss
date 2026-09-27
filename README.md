@@ -1,11 +1,15 @@
 ## Hi there 👋, I'm Serhii                                                                                                                       
  
-Backend-focused Full Stack Engineer with 6+ years building production systems                                                                    
-across SaaS, fintech, compliance, and crypto. I specialize in Django/Python —
-clean architecture, performance optimization, and enterprise auth. I also write about it.
+Backend engineer who spends most days deep in Django and Python. 
+
+I've been shipping production systems for 6+ across SaaS and fintech stuff for the past 6 years.
+
+Sometimes I write about things I run into at work.
+
 
 
 ## 📝 Latest Blog Posts
+[Migrating a Production Django App from Elasticsearch to OpenSearch](https://hackernoon.com/migrating-a-production-django-app-from-elasticsearch-to-opensearch)\
 [Almost Done: The Hidden Tradeoffs of Playwright E2E Testing in a Fast-Moving App](https://soldatov-ss.hashnode.dev/almost-done-the-hidden-tradeoffs-of-playwright-e2e-testing-in-a-fast-moving-app)\
 [How I Added Project-Aware Tab Completion to Django's manage.py](https://soldatov-ss.hashnode.dev/how-i-added-project-aware-tab-completion-to-django-s-manage-py)\
 [Django Without the Mess: Repositories for Data, Services for Rules](https://soldatov-ss.hashnode.dev/django-without-the-mess-repositories-for-data-services-for-rules)\
