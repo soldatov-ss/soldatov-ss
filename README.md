@@ -2,7 +2,7 @@
  
 Backend engineer who spends most days deep in Django and Python. 
 
-I've been shipping production systems for 6+ across SaaS and fintech stuff for the past 6 years.
+I've been shipping production systems across SaaS and fintech for the past 6 years.
 
 Sometimes I [write](https://serhiisoldatov.dev) about things I run into at work.
 
